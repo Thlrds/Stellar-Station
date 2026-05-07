@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "license": "LicenseRef-Wallening",
+  "copyright": "Thlrd",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "antennae-0",
+      "directions": 4
+    },
+    {
+      "name": "antennae-1",
+      "directions": 4
+    },
+    {
+      "name": "antennae-2",
+      "directions": 4
+    },
+    {
+      "name": "antennae-3",
+      "directions": 4
+    },
+    {
+      "name": "antennae-4",
+      "directions": 4
+    },
+    {
+      "name": "antennae-5",
+      "directions": 4
+    },
+    {
+      "name": "antennae-6",
+      "directions": 4
+    },
+    {
+      "name": "antennae-7",
+      "directions": 4
+    },
+    {
+      "name": "antennae-8",
+      "directions": 4
+    },
+    {
+      "name": "antennae-9",
+      "directions": 4
+    },
+    {
+      "name": "antennae-10",
+      "directions": 4
+    },
+    {
+      "name": "antennae-11",
+      "directions": 4
+    },
+    {
+      "name": "antennae-12",
+      "directions": 4
+    },
+    {
+      "name": "antennae-13",
+      "directions": 4
+    },
+    {
+      "name": "antennae-14",
+      "directions": 4
+    },
+    {
+      "name": "antennae-15",
+      "directions": 4
+    },
+    {
+      "name": "antennae-16",
+      "directions": 4
+    },
+    {
+      "name": "antennae-17",
+      "directions": 4
+    }
+  ]
+}
